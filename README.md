@@ -1,4 +1,4 @@
-# visulization_project
+# 시각화프로젝트
 
 
 안녕하세요 김시찬입니다. <br>
