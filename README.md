@@ -1,17 +1,24 @@
-# 시각화프로젝트
+# Visualization Project
 
 
-안녕하세요 김시찬입니다. <br>
-제가 화요일에 프로젝트 참여를 제대로 하지 못하기 때문에, 너무 죄송한 마음에 조금이나마 도움이 되고자 임의로 여러 파일을 만들었습니다.<br>
-팀원분들에게 조금이나마 도움이 되셨으면 좋겠습니다.
+Analyze and visualize electric vehicle charging stations in highway rest area in South Korea<br> 
 
 <hr>
 
-시각화 프로젝트: 08/13에 한국관광공사_관광빅데이터정보서비스를 활용해, 저의 담당이었던 20200101-20200630 과 20220101-20220810 의 DataFrame입니다.<br>
+1. Selecting a topic<br>
+Based on actual consumer feedback and historical statistical data on the shortage of electric vehicle charging stations in highway rest areas<br>
 
-자치구별 연료별 자동차 등록현황: 서울시 구별로 자동차 등록현황을 임의로 DataFrame을 만들었습니다. 과정 중, xlsx파일을 csv파일로 변환하고 한글깨짐 현상을 다시 바로 잡는 것을 하였고, 팀원분들이 조금이나마 쓸모있게(?) 만들어봤습니다.<br>
 
-전기차_충전소_설치현황_서울: <br> https://nbviewer.org/github/97Sichan/visulization_project/blob/master/%EC%A0%84%EA%B8%B0%EC%B0%A8_%EC%B6%A9%EC%A0%84%EC%86%8C_%EC%84%A4%EC%B9%98%ED%98%84%ED%99%A9_%EC%84%9C%EC%9A%B8.ipynb  <br>
-이 파일은 위 링크를 타고 들어가면 map 을 볼 수 있습니다!
+<br>
 
+2. Performance direction<br>
+
+• Electric vehicle market - growth rate, subsidy support projects, etc
+• Highways, traffic by conzone, congestion
+• Traffic and Congestion Patterns by Highway and Conzone Time
+• Correlation between Conzone Length and Traffic Volume
+• Traffic and Charge Correlation
+• Status of Charging Stations in Expressway Service Stations
+• Charging rate and distribution of charging stations in rest areas
+• Charger fault tracking with charging error data
 
