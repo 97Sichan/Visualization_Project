@@ -13,12 +13,12 @@ Based on actual consumer feedback and historical statistical data on the shortag
 
 2. Performance direction<br>
 
-• Electric vehicle market - growth rate, subsidy support projects, etc
-• Highways, traffic by conzone, congestion
-• Traffic and Congestion Patterns by Highway and Conzone Time
-• Correlation between Conzone Length and Traffic Volume
-• Traffic and Charge Correlation
-• Status of Charging Stations in Expressway Service Stations
-• Charging rate and distribution of charging stations in rest areas
-• Charger fault tracking with charging error data
+• Electric vehicle market - growth rate, subsidy support projects, etc<br>
+• Highways, traffic by conzone, congestion<br>
+• Traffic and Congestion Patterns by Highway and Conzone Time<br>
+• Correlation between Conzone Length and Traffic Volume<br>
+• Traffic and Charge Correlation<br>
+• Status of Charging Stations in Expressway Service Stations<br>
+• Charging rate and distribution of charging stations in rest areas<br>
+• Charger fault tracking with charging error data<br>
 
